@@ -1,0 +1,34 @@
+_repo: The-house-of-the-wizard_70156
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Taylor, Mary Imlay
+    alias: Taylor, M. Imlay (Mary Imlay)
+    birthdate: 1878
+    deathdate: 1938
+    gutenberg_agent_id: '48463'
+    url: http://www.gutenberg.org/2009/agents/48463
+description: ''
+gutenberg_issued: '2023-02-27'
+identifiers:
+  gutenberg: '70156'
+  lccn: '99004843'
+language: en
+pgterms:marc904: https://archive.org/details/houseofthewizard00tayliala/mode/2up
+pgterms:marc905: 20220130153311taylor
+pgterms:marc906: '1899'
+pgterms:marc907: us
+production_note: D A Alexander, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by University of California libraries)
+publication_note: '  $aUnited States :$bA. C . McClurg & Company, $c1899.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'Great Britain -- History -- Henry VIII, 1509-1547 -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The house of the wizard
+url: http://www.gutenberg.org/ebooks/70156
